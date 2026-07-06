@@ -29,8 +29,7 @@ This version is designed to be **simple to compile on Windows (MinGW / Dev-C++)*
 - [Known Limitations](#known-limitations)
 - [Suggested Improvements](#suggested-improvements)
 - [Troubleshooting](#troubleshooting)
-- [License / Usage](#license--usage)
-
+  
 ---
 
 ## Overview
@@ -596,19 +595,6 @@ If the file cannot be opened:
 
 ### Output is hard to read
 Run the benchmark from a standard terminal window with enough width to display aligned columns properly.
-
----
-
-## License / Usage
-
-No license was specified in the source code. Before redistributing or publishing the project, decide whether you want:
-
-- permissive reuse
-- internal-only use
-- open-source publication
-- a custom license header
-
-If you plan to share the code publicly, it is a good idea to add a clear license file and a short project description at the top of the repository.
 
 ---
 
