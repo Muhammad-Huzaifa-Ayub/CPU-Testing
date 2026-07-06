@@ -1,0 +1,393 @@
+============================
+Run timestamp: 2026-02-07 16:44:26
+Threads: 8
+OHM CSV path: C:\OHM\OpenHardwareMonitorReport.csv
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.8369
+Blocks: 32113
+Total ops (billion): 77.0712
+Average (billion/sec): 4.86657
+Peak (billion/sec): 4.37607
+GFLOPS: 4.86657
+Last temp (C): N/A
+Max temp (C): N/A
+--- EASY DETAIL ---
+Thread 0: 4010 blocks
+Thread 1: 4029 blocks
+Thread 2: 4101 blocks
+Thread 3: 3929 blocks
+Thread 4: 4103 blocks
+Thread 5: 4064 blocks
+Thread 6: 3940 blocks
+Thread 7: 3937 blocks
+
+----- MEDIUM -----
+Duration (s): 30.2925
+Blocks: 27810
+Total ops (billion): 133.488
+Average (billion/sec): 4.40663
+Peak (billion/sec): 4.20415
+GFLOPS: 4.40663
+Last temp (C): N/A
+Max temp (C): N/A
+--- MEDIUM DETAIL ---
+Thread 0: 3531 blocks
+Thread 1: 3533 blocks
+Thread 2: 3416 blocks
+Thread 3: 3426 blocks
+Thread 4: 3537 blocks
+Thread 5: 3527 blocks
+Thread 6: 3421 blocks
+Thread 7: 3419 blocks
+
+
+============================
+Run timestamp: 2026-02-07 17:08:18
+Threads: 8
+OHM CSV path: C:\OHM\OpenHardwareMonitorReport.csv
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.9408
+Blocks: 31299
+Total ops (billion): 75.1176
+Average (billion/sec): 4.71228
+Peak (billion/sec): 4.18961
+GFLOPS: 4.71228
+Last temp (C): N/A
+Max temp (C): N/A
+--- EASY DETAIL ---
+Thread 0: 3902 blocks
+Thread 1: 3929 blocks
+Thread 2: 3916 blocks
+Thread 3: 3879 blocks
+Thread 4: 3924 blocks
+Thread 5: 3909 blocks
+Thread 6: 3981 blocks
+Thread 7: 3859 blocks
+
+
+============================
+Run timestamp: 2026-02-07 17:31:33
+Threads: 8
+OHM CSV path: C:\OHM\OpenHardwareMonitorReport.csv
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.4351
+Blocks: 30414
+Total ops (billion): 72.9936
+Average (billion/sec): 4.72907
+Peak (billion/sec): 4.22366
+GFLOPS: 4.72907
+Last temp (C): N/A
+Max temp (C): N/A
+--- EASY DETAIL ---
+Thread 0: 3794 blocks
+Thread 1: 3828 blocks
+Thread 2: 3817 blocks
+Thread 3: 3830 blocks
+Thread 4: 3753 blocks
+Thread 5: 3805 blocks
+Thread 6: 3823 blocks
+Thread 7: 3764 blocks
+
+
+============================
+Run timestamp: 2026-02-07 18:47:59
+Threads: 8
+OHM CSV path: C:\OHM\OpenHardwareMonitorReport.csv
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.9288
+Blocks: 31156
+Total ops (billion): 74.7744
+Average (billion/sec): 4.69428
+Peak (billion/sec): 4.3114
+GFLOPS: 4.69428
+Last temp (C): N/A
+Max temp (C): N/A
+--- EASY DETAIL ---
+Thread 0: 3747 blocks
+Thread 1: 4046 blocks
+Thread 2: 4069 blocks
+Thread 3: 3723 blocks
+Thread 4: 3720 blocks
+Thread 5: 4062 blocks
+Thread 6: 4055 blocks
+Thread 7: 3734 blocks
+
+
+============================
+Run timestamp: 2026-02-08 09:35:45
+Threads: 8
+OHM CSV path: C:\OHM\OpenHardwareMonitorReport.csv
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.2802
+Blocks: 32042
+Total ops (billion): 76.9008
+Average (billion/sec): 5.03272
+Peak (billion/sec): 4.51888
+GFLOPS: 5.03272
+Last temp (C): N/A
+Max temp (C): N/A
+--- EASY DETAIL ---
+Thread 0: 3974 blocks
+Thread 1: 4021 blocks
+Thread 2: 4038 blocks
+Thread 3: 4035 blocks
+Thread 4: 3962 blocks
+Thread 5: 4041 blocks
+Thread 6: 3990 blocks
+Thread 7: 3981 blocks
+
+----- MEDIUM -----
+Duration (s): 31.6747
+Blocks: 30414
+Total ops (billion): 145.987
+Average (billion/sec): 4.60895
+Peak (billion/sec): 4.40342
+GFLOPS: 4.60895
+Last temp (C): N/A
+Max temp (C): N/A
+--- MEDIUM DETAIL ---
+Thread 0: 3862 blocks
+Thread 1: 3854 blocks
+Thread 2: 3751 blocks
+Thread 3: 3764 blocks
+Thread 4: 3849 blocks
+Thread 5: 3853 blocks
+Thread 6: 3743 blocks
+Thread 7: 3738 blocks
+
+
+============================
+Run timestamp: 2026-02-08 19:59:01
+Threads: 8
+OHM CSV path: C:\OHM\OpenHardwareMonitorReport.csv
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 16.7873
+Blocks: 33315
+Total ops (billion): 79.956
+Average (billion/sec): 4.76288
+Peak (billion/sec): 4.25567
+GFLOPS: 4.76288
+Last temp (C): N/A
+Max temp (C): N/A
+--- EASY DETAIL ---
+Thread 0: 4118 blocks
+Thread 1: 4251 blocks
+Thread 2: 4239 blocks
+Thread 3: 4093 blocks
+Thread 4: 4109 blocks
+Thread 5: 4202 blocks
+Thread 6: 4234 blocks
+Thread 7: 4069 blocks
+
+----- MEDIUM -----
+Duration (s): 30.4679
+Blocks: 44591
+Total ops (billion): 214.037
+Average (billion/sec): 7.02499
+Peak (billion/sec): 4.20679
+GFLOPS: 7.02499
+Last temp (C): N/A
+Max temp (C): N/A
+--- MEDIUM DETAIL ---
+Thread 0: 5475 blocks
+Thread 1: 5660 blocks
+Thread 2: 5668 blocks
+Thread 3: 5498 blocks
+Thread 4: 5489 blocks
+Thread 5: 5644 blocks
+Thread 6: 5662 blocks
+Thread 7: 5495 blocks
+
+
+============================
+Run timestamp: 2026-02-08 20:06:23
+Threads: 8
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.529
+Blocks: 32713
+Total ops (billion): 78.5112
+Average (billion/sec): 5.05577
+Peak (billion/sec): 4.40549
+GFLOPS: 5.05577
+
+----- MEDIUM -----
+Duration (s): 31.4998
+Blocks: 30044
+Total ops (billion): 144.211
+Average (billion/sec): 4.57816
+Peak (billion/sec): 4.30959
+GFLOPS: 4.57816
+
+
+============================
+Run timestamp: 2026-02-08 20:15:42
+Threads: 8
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.609
+Blocks: 32525
+Total ops (billion): 78.06
+Average (billion/sec): 5.00096
+Peak (billion/sec): 4.39448
+GFLOPS: 5.00096
+
+----- MEDIUM -----
+Duration (s): 30.5004
+Blocks: 29011
+Total ops (billion): 139.253
+Average (billion/sec): 4.56561
+Peak (billion/sec): 4.3458
+GFLOPS: 4.56561
+
+----- HARD -----
+Duration (s): 61.6674
+Blocks: 27811
+Total ops (billion): 266.986
+Average (billion/sec): 4.32944
+Peak (billion/sec): 4.26139
+GFLOPS: 4.32944
+
+
+============================
+Run timestamp: 2026-02-15 14:59:23
+Threads: 8
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 16.4885
+Blocks: 33975
+Total ops (billion): 81.54
+Average (billion/sec): 4.94527
+Peak (billion/sec): 4.3627
+GFLOPS: 4.94527
+
+----- MEDIUM -----
+Duration (s): 31.6218
+Blocks: 29909
+Total ops (billion): 143.563
+Average (billion/sec): 4.54001
+Peak (billion/sec): 4.29965
+GFLOPS: 4.54001
+
+----- HARD -----
+Duration (s): 61.6714
+Blocks: 34153
+Total ops (billion): 327.869
+Average (billion/sec): 5.31638
+Peak (billion/sec): 4.19229
+GFLOPS: 5.31638
+
+
+============================
+Run timestamp: 2026-03-31 13:40:31
+Threads: 8
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 16.3066
+Blocks: 25148
+Total ops (billion): 60.3552
+Average (billion/sec): 3.70127
+Peak (billion/sec): 3.3318
+GFLOPS: 3.70127
+
+----- MEDIUM -----
+Duration (s): 31.8017
+Blocks: 25933
+Total ops (billion): 124.478
+Average (billion/sec): 3.91421
+Peak (billion/sec): 3.1622
+GFLOPS: 3.91421
+
+----- HARD -----
+Duration (s): 61.4856
+Blocks: 28744
+Total ops (billion): 275.942
+Average (billion/sec): 4.48792
+Peak (billion/sec): 3.09479
+GFLOPS: 4.48792
+
+----- EXTREME -----
+Duration (s): 120.59
+Blocks: 37935
+Total ops (billion): 728.352
+Average (billion/sec): 6.03993
+Peak (billion/sec): 3.06853
+GFLOPS: 6.03993
+
+
+============================
+Run timestamp: 2026-04-11 13:21:36
+Threads: 8
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 15.9328
+Blocks: 30522
+Total ops (billion): 73.2528
+Average (billion/sec): 4.5976
+Peak (billion/sec): 4.11479
+GFLOPS: 4.5976
+
+----- MEDIUM -----
+Duration (s): 30.4765
+Blocks: 26686
+Total ops (billion): 128.093
+Average (billion/sec): 4.20301
+Peak (billion/sec): 3.95866
+GFLOPS: 4.20301
+
+----- HARD -----
+Duration (s): 60.1953
+Blocks: 25236
+Total ops (billion): 242.266
+Average (billion/sec): 4.02466
+Peak (billion/sec): 3.92544
+GFLOPS: 4.02466
+
+
+============================
+Run timestamp: 2026-07-04 14:11:11
+Threads: 8
+Configuration: INNER_BASE=200000 FLOPS_PER_ITER=12 (estimate)
+
+----- EASY -----
+Duration (s): 21.3422
+Blocks: 38770
+Total ops (billion): 93.048
+Average (billion/sec): 4.35981
+Peak (billion/sec): 4.06479
+GFLOPS: 4.35981
+
+----- MEDIUM -----
+Duration (s): 30.4665
+Blocks: 25531
+Total ops (billion): 122.549
+Average (billion/sec): 4.02241
+Peak (billion/sec): 3.86272
+GFLOPS: 4.02241
+
+----- HARD -----
+Duration (s): 67.167
+Blocks: 28847
+Total ops (billion): 276.931
+Average (billion/sec): 4.12303
+Peak (billion/sec): 3.75023
+GFLOPS: 4.12303
+
+
