@@ -66,7 +66,7 @@ int main()
     for (unsigned int i = 0; i < threads; ++i)
         total_blocks += counters[i].load();
 
-    // Each block ˜ 1,000,000 loop iterations
+    // Each block ï¿½ 1,000,000 loop iterations
     // Rough estimate: ~10 floating ops per iteration
     double total_operations = (double)total_blocks * 1000000.0 * 10.0;
 
